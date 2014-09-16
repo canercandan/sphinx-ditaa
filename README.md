@@ -1,5 +1,7 @@
 #ditaa sphinx-doc extension
 
+**Version compatible with Python 3**
+
 This adds a basic ditaa builder for sphinx.
 
 Supports html and latex and latexpdf output.
